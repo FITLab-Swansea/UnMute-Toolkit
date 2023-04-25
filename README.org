@@ -10,10 +10,10 @@ See the [[https://unmute.tech/][UnMute research project website]] for more detai
 ** Setting up Community Engaged ASR Development Toolkit
 The toolkit is made up of four separate components, and each one is documented in more detail within the relevant source directory:
 
-*** [[https://github.com/treitmaier/SpeechBox][SpeechBox Appliance]]
-*** [[https://github.com/treitmaier/SpeechBoxApiServer][SpeechBox API Server]]
-*** [[https://github.com/treitmaier/TranscriptTool][TranscriptTool App]]
-*** [[https://github.com/treitmaier/TranscribeApi][TranscriptTool API Server]]
+- [[https://github.com/treitmaier/SpeechBox][SpeechBox Appliance]]
+- [[https://github.com/treitmaier/SpeechBoxApiServer][SpeechBox API Server]]
+- [[https://github.com/treitmaier/TranscriptTool][TranscriptTool App]]
+- [[https://github.com/treitmaier/TranscribeApi][TranscriptTool API Server]]
 
 ** License
 Apache 2.0
